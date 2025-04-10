@@ -13,4 +13,3 @@
 
 - **Flutter**: For cross-platform UI development.
 - **Dart**: Primary language used in the app.
-- **Free AI APIs**: For generating text responses and images.
